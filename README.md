@@ -1,1 +1,1 @@
-# pythonfinal
+# bilgi_universty_python_notes
